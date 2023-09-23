@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DioProjectAndroid</string>
+    <string name="TextoApp">Olá Mundo !</string>
 </resources>
